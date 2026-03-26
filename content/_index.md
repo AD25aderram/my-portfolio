@@ -23,9 +23,9 @@ sections:
         prefix: "I build"
         strings:
           - "full-stack web apps"
-          - "scalable APIs"
-          - "beautiful UIs"
-          - "open source tools"
+          - "RESTfull APIs"
+          - "responsive interfaces"
+          - "data analysis projetcs"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
@@ -62,8 +62,8 @@ sections:
           tag: '*'
         - name: Full-Stack
           tag: Full-Stack
-        - name: Frontend
-          tag: Frontend
+        - name: DevOps
+          tag: Devops
         - name: Backend
           tag: Backend
       default_button_index: 0
@@ -90,44 +90,40 @@ sections:
       categories:
         - name: Languages
           items:
-            - name: TypeScript
-              icon: devicon/typescript
-            - name: JavaScript
-              icon: devicon/javascript
             - name: Python
               icon: devicon/python
-            - name: Go
-              icon: devicon/go
+            - name: PHP
+              icon: devicon/php
+            - name: C
+              icon: devicon/c
+            - name: Java
+              icon: devicon/java
+            - name: R
+              icon: devicon/r
         - name: Frontend
           items:
-            - name: React
-              icon: devicon/react
-            - name: Next.js
-              icon: devicon/nextjs
-            - name: Tailwind CSS
-              icon: devicon/tailwindcss
-            - name: Alpine.js
-              icon: devicon/alpinejs
+            - name: HTML
+              icon: devicon/html5
+            - name: CSS
+              icon: devicon/css3
+            - name: JavaScript
+              icon: devicon/javascript
         - name: Backend
           items:
-            - name: Node.js
-              icon: devicon/nodejs
-            - name: Express
-              icon: devicon/express
-            - name: PostgreSQL
-              icon: devicon/postgresql
-            - name: Redis
-              icon: devicon/redis
+            - name: Laravel
+              icon: devicon/laravel
+            - name: Django
+              icon: devicon/django
+            - name: SQL
+              icon: devicon/mysql
         - name: DevOps
           items:
             - name: Docker
               icon: devicon/docker
             - name: AWS
               icon: devicon/amazonwebservices-wordmark
-            - name: GitHub Actions
-              icon: brands/github
-            - name: Vercel
-              icon: devicon/vercel
+            - name: GitHub
+              icon: devicon/github
     design:
       style: grid
       show_levels: false

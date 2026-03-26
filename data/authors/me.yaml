@@ -35,38 +35,24 @@ interests:
 education:
   - degree: IA and Software enginner
     institution: Ensam casablanca
-    start: 2023-09-01
+    start: 2025-09-01
     end: 2028-05-31
     summary: |
       Focus on software engineering and Computer Science.
     button:
-      text: View Project
-      url: https://github.com/alexjohnson/senior-project
-      icon: brands/github
-
-experience:
-  - role: Senior Software Engineer
-    org: Tech Corp
-    start: 2023-01-01
+      text: ENSAM Casablanca
+      url: https://www.ensam-casa.ma/filieres/details?id=19
+      icon: fas/graduation-cap
+  - degree: Integrated Preparatory Years in Engineering
+    institution: Ensam casablanca
+    start: 2023-09-01
+    end: 2025-05-31
     summary: |
-      Lead development of microservices architecture serving 1M+ users.
-      Improved API response time by 40% through optimization.
-      Mentored team of 5 junior developers.
-  - role: Full-Stack Developer
-    org: Startup Inc
-    start: 2021-06-01
-    end: 2022-12-31
-    summary: |
-      Built and deployed 3 production applications from scratch.
-      Implemented CI/CD pipeline reducing deployment time by 60%.
-      Led migration from monolith to microservices architecture.
-  - role: Junior Developer
-    org: Web Agency
-    start: 2020-01-01
-    end: 2021-05-31
-    summary: |
-      Developed client websites using React and modern web technologies.
-      Participated in code reviews and agile ceremonies.
+      Integrated preparatory program in engineering covering mathematics, physics, and computer science fundamentals.
+    button:
+      text: ENSAM Casablanca
+      url: https://www.ensam-casa.ma/filieres/details?id=47
+      icon: fas/universityv
 
 skills:
   - name: Development
@@ -90,7 +76,12 @@ skills:
 
 languages:
   - name: English
+    level: 4
+    label: Advanced
+  - name: French
+    level: 4
+    label: Advanced
+  - name: Arabic
     level: 5
     label: Native
-
 awards: []
