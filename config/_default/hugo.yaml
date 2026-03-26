@@ -6,7 +6,11 @@
 # Website name (set in params.yaml under hugoblox.branding.name)
 title: ''
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'https://ad25aderram.github.io/my-portfolio/'
+
+# Fixes pathing for GitHub Pages subfolders
+canonifyURLs: true
+relativeURLs: false
 
 ############################
 ## LANGUAGE
