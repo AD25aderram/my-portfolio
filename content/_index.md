@@ -60,10 +60,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Full-Stack
-          tag: Full-Stack
+        - name: Python
+          tag: Python
         - name: DevOps
-          tag: Devops
+          tag: DevOps
         - name: Backend
           tag: Backend
       default_button_index: 0
