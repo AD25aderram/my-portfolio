@@ -134,57 +134,57 @@ sections:
       spacing:
         padding: ["4rem", "0", "4rem", "0"]
   
-  # Experience Timeline
-  - block: resume-experience
-    id: experience
-    content:
-      title: Experience
-      date_format: Jan 2006
-      items:
-        - title: Senior Software Engineer
-          company: Tech Corp
-          company_url: ''
-          company_logo: ''
-          location: San Francisco, CA
-          date_start: '2023-01-01'
-          date_end: ''
-          description: |2-
-            * Lead development of microservices architecture serving 1M+ users
-            * Improved API response time by 40% through optimization
-            * Mentored team of 5 junior developers
-            * Tech stack: React, Node.js, PostgreSQL, AWS
-        - title: Full-Stack Developer
-          company: Startup Inc
-          company_url: ''
-          company_logo: ''
-          location: Remote
-          date_start: '2021-06-01'
-          date_end: '2022-12-31'
-          description: |2-
-            * Built and deployed 3 production applications from scratch
-            * Implemented CI/CD pipeline reducing deployment time by 60%
-            * Collaborated with design team on UI/UX improvements
-            * Tech stack: Next.js, Express, MongoDB, Docker
-        - title: Junior Developer
-          company: Web Agency
-          company_url: ''
-          company_logo: ''
-          location: New York, NY
-          date_start: '2020-01-01'
-          date_end: '2021-05-31'
-          description: |2-
-            * Developed client websites using modern web technologies
-            * Maintained and updated legacy codebases
-            * Participated in code reviews and agile ceremonies
-            * Tech stack: React, WordPress, PHP, MySQL
-    design:
-      columns: '1'
-      background:
-        color:
-          light: "#ffffff"
-          dark: "#0d0d12"
-      spacing:
-        padding: ["4rem", "0", "4rem", "0"]
+#  # Experience Timeline
+#  - block: resume-experience
+#    id: experience
+#    content:
+#      title: Experience
+#      date_format: Jan 2006
+#      items:
+#        - title: Senior Software Engineer
+#          company: Tech Corp
+#          company_url: ''
+#          company_logo: ''
+#          location: San Francisco, CA
+#          date_start: '2023-01-01'
+#          date_end: ''
+#          description: |2-
+#            * Lead development of microservices architecture serving 1M+ users
+#            * Improved API response time by 40% through optimization
+#            * Mentored team of 5 junior developers
+#            * Tech stack: React, Node.js, PostgreSQL, AWS
+#        - title: Full-Stack Developer
+#          company: Startup Inc
+#          company_url: ''
+#          company_logo: ''
+#          location: Remote
+#          date_start: '2021-06-01'
+#          date_end: '2022-12-31'
+#          description: |2-
+#            * Built and deployed 3 production applications from scratch
+#            * Implemented CI/CD pipeline reducing deployment time by 60%
+#            * Collaborated with design team on UI/UX improvements
+#            * Tech stack: Next.js, Express, MongoDB, Docker
+#        - title: Junior Developer
+#          company: Web Agency
+#          company_url: ''
+#          company_logo: ''
+#          location: New York, NY
+#          date_start: '2020-01-01'
+#          date_end: '2021-05-31'
+#          description: |2-
+#            * Developed client websites using modern web technologies
+#            * Maintained and updated legacy codebases
+#            * Participated in code reviews and agile ceremonies
+#            * Tech stack: React, WordPress, PHP, MySQL
+#    design:
+#      columns: '1'
+#      background:
+#        color:
+#          light: "#ffffff"
+#          dark: "#0d0d12"
+#      spacing:
+#        padding: ["4rem", "0", "4rem", "0"]
   
   # Recent Blog Posts
   - block: collection
@@ -214,11 +214,10 @@ sections:
     id: contact
     content:
       title: Get In Touch
-      subtitle: "Let's build something amazing together"
+      subtitle: "Let's learn and build together"
       text: |-
-        I'm always interested in hearing about new projects and opportunities.
-        Whether you're looking to hire, collaborate, or just want to say hi, feel free to reach out!
-      email: alex@example.com
+        I'm currently a computer science student open to learning opportunities,internships, and collaborations. Feel free to reach out if you'd like to work together, share ideas, or just connect.
+      email: ad.aderram@gmail.com
       autolink: true
     design:
       columns: '1'
@@ -234,7 +233,7 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **senior engineering** or **tech lead** roles.
+        I'm currently looking for **a summer internship** roles.
         
         Let's connect and discuss how I can help your team.
       button:

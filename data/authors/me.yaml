@@ -13,9 +13,9 @@ email: ad.aderram@gmail.com
 bio: |
   software engineering student.Curious about every layer of technology, from low-level architecture to scalable applications, I explore, build, and optimize across the tech stack while creating performant and efficient solutions.
 
-affiliations:
-  - name: Tech Corp
-    url: https://techcorp.example.com
+affiliations: []
+#  - name: Tech Corp
+#    url: https://techcorp.example.com
 
 links:
   - icon: at-symbol
@@ -33,12 +33,12 @@ interests:
   - Systems Architecture
 
 education:
-  - degree: IA and Software enginner
+  - degree: Engineering in AI and Software
     institution: Ensam casablanca
     start: 2025-09-01
     end: 2028-05-31
     summary: |
-      Focus on software engineering and Computer Science.
+      Focus on software engineering, AI, and computer science.
     button:
       text: ENSAM Casablanca
       url: https://www.ensam-casa.ma/filieres/details?id=19
@@ -53,6 +53,30 @@ education:
       text: ENSAM Casablanca
       url: https://www.ensam-casa.ma/filieres/details?id=47
       icon: fas/universityv
+
+# ─── EXPERIENCE ─(placeholder wrote by cluade for future modification)──────────────────────────────────────────────────────────────
+# Uncomment each block and fill in your details when you have experience to add.
+# experience:
+#   - title: Software Engineer Intern
+#     company: Company Name
+#     company_url: https://company.example.com
+#     location: City, Country
+#     date_start: 2025-06-01
+#     date_end: 2025-08-31          # Leave empty if current: date_end: ''
+#     description: |
+#       - What you built or worked on
+#       - Technologies used
+#       - Impact or outcome
+#
+#   - title: Freelance Developer
+#     company: Self-employed
+#     company_url: ''
+#     location: Remote
+#     date_start: 2024-01-01
+#     date_end: ''
+#     description: |
+#       - Built web apps for clients using React and Node.js
+#       - Managed deployments on AWS
 
 skills:
   - name: Development
