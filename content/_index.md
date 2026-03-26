@@ -23,7 +23,7 @@ sections:
         prefix: "I build"
         strings:
           - "full-stack web apps"
-          - "RESTfull APIs"
+          - "RESTful APIs"
           - "responsive interfaces"
           - "data analysis projetcs"
         type_speed: 70

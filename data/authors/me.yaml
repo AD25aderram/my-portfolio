@@ -11,7 +11,7 @@ status:
 role: Software Engineering Student
 email: ad.aderram@gmail.com
 bio: |
-  software engineering student.Curious about every layer of technology, from low-level architecture to scalable applications, I explore, build, and optimize across the tech stack while creating performant and efficient solutions.
+  software engineering student. Curious about every layer of technology, from low-level architecture to scalable applications, I explore, build, and optimize across the tech stack while creating performant and efficient solutions.
 
 affiliations: []
 #  - name: Tech Corp
@@ -25,6 +25,9 @@ links:
     url: https://github.com/ad25aderram
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/adam-aderram-4a5217210/
+  - icon: academicons/cv
+    url: uploads/resume.pdf
+    label: Download CV
 
 interests:
   - Web Development
