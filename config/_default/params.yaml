@@ -19,12 +19,12 @@ hugoblox:
     # Schema.org type for structured data
     type: person                        # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: "Full-Stack Developer"
+    tagline: "Software Engineering Student"
     # Site meta description for search engines and social sharing
-    description: "Modern developer portfolio showcasing web development projects, technical blog posts, and open source contributions. Built with Hugo Blox."
+    description: "Software engineering student at ENSAM Casablanca. Building full-stack applications, exploring systems architecture, and sharing what I learn along the way."
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "yourusername"              # Twitter/X handle for Twitter Cards (without @)
+      twitter: ""
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -90,8 +90,7 @@ hugoblox:
     search: true
     theme_toggle: true
     theme_picker: true
-    language_switcher: true
-    # Call-to-action button
+    language_switcher: false
     cta:
       enable: false
       text: ""
@@ -104,8 +103,7 @@ hugoblox:
   footer:
     # Footer style variant
     style: minimal                      # minimal | columns | centered
-    language_switcher: true
-    # Custom footer text (HTML supported)
+    language_switcher: false
     text: ""
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -113,12 +111,11 @@ hugoblox:
   # Legal notices and licensing
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
-    # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} Adam Aderram"
     license:
-      type: cc                          # cc | custom
+      type: cc
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -146,7 +143,7 @@ hugoblox:
         - /
       disallow: []
       note: "Guidance for AI crawlers - customize to match your public content."
-      contact: ""
+      contact: "ad.aderram@gmail.com"
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
