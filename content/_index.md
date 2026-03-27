@@ -20,12 +20,13 @@ sections:
       show_scroll_indicator: true
       typewriter:
         enable: true
-        prefix: "I build"
+        prefix: "I'm learning"
         strings:
           - "full-stack web apps"
           - "RESTful APIs"
           - "responsive interfaces"
-          - "data analysis projetcs"
+          - "Linux envirement"
+          - "DevOps philosophie"
         type_speed: 70
         delete_speed: 40
         pause_time: 2500
