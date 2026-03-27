@@ -113,15 +113,13 @@ sections:
             - name: Laravel
               icon: devicon/laravel
             - name: Django
-              icon: devicon/django
+              icon: devicon/python
             - name: SQL
               icon: devicon/mysql
         - name: DevOps
           items:
             - name: Docker
               icon: devicon/docker
-            - name: AWS
-              icon: devicon/amazonwebservices-wordmark
             - name: GitHub
               icon: devicon/github
     design:

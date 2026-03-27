@@ -6,7 +6,6 @@
 # ══════════════════════════════════════════════════════════════════════════════
 hugoblox:
   schema: "2.0"
-
   # ────────────────────────────────────────────────────────────────────────────
   # IDENTITY
   # Site-level branding (for people/profiles, use the author system in content/authors/)
