@@ -232,7 +232,7 @@ sections:
     content:
       title: "Open to Opportunities"
       text: |-
-        I'm currently looking for **a summer internship** roles.
+        I'm currently looking for **a summer internship**.
         
         Let's connect and discuss how I can help your team.
       button:
