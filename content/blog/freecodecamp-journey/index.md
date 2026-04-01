@@ -41,9 +41,9 @@ Given that I'd already used PostgreSQL in my Laravel API project, revisiting it 
 
 ## Currently: JavaScript Fundamentals
 
-This is where I am right now. The curriculum starts from the very basics — variables, data types, loops, functions, arrays, objects — and builds up steadily. Coming from Python and PHP, some concepts feel familiar, but JavaScript has its own quirks that keep things interesting: loose typing, how `this` behaves, the difference between `var`, `let`, and `const`, and why `==` and `===` are not the same thing.
+Coming from Python and PHP, the basics clicked fast. Now it's the interesting parts: how this really works, the event loop and async/await under the hood, closures, prototypal inheritance, and why JavaScript's quirks actually make sense once you stop fighting them.
 
-Taking it step by step rather than rushing into frameworks is something I'm deliberately choosing. Getting the fundamentals right makes everything that comes after easier.
+Frameworks are already in the mix — but understanding what's happening beneath them is what makes the difference between using a tool and actually knowing it.
 
 ## What the curriculum has taught me beyond the content
 
@@ -61,3 +61,4 @@ The full stack curriculum ahead of me still includes front end libraries (React)
 
 *Currently working through: JavaScript Fundamentals*  
 *Certifications earned: Responsive Web Design · Scientific Computing with Python · Relational Database*
+
