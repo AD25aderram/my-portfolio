@@ -109,6 +109,12 @@ sections:
               icon: devicon/css3
             - name: JavaScript
               icon: devicon/javascript
+            - name: React
+              icon: devicon/react
+            - name: Tailwind
+              icon: devicon/tailwindcss
+            - name: bootstrap
+              icon: devicon/bootstrap
         - name: Backend
           items:
             - name: Laravel
@@ -123,6 +129,10 @@ sections:
               icon: devicon/docker
             - name: GitHub
               icon: devicon/github
+            - name: Git
+              icon: devicon/git
+            - name: Linux
+              icon: devicon/linux
     design:
       style: grid
       show_levels: false
