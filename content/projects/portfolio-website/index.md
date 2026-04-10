@@ -26,7 +26,7 @@ links:
 featured: true
 status: "Completed"
 role: "Solo Developer"
-duration: "Ongoing"
+duration: "1 day"
 team_size: 1
 highlights:
   - "Automated deployment pipeline with GitHub Actions triggered on every push"
