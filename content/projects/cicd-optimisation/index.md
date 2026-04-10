@@ -24,7 +24,7 @@ featured: true
 status: "Completed"
 role: "Co-Developer"
 duration: "1 month"
-team_size: 2
+team_size: 4
 highlights:
   - "Critical path identified at 64 minutes minimum deployment time"
   - "Modelled real DevOps pipeline as a scheduling problem"
