@@ -24,7 +24,7 @@ links:
     url: https://lnkd.in/d8UCWENZ
     label: Live Portfolio
 featured: true
-status: "In Progress"
+status: "Completed"
 role: "Solo Developer"
 duration: "Ongoing"
 team_size: 1
