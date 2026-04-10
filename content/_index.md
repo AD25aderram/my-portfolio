@@ -127,6 +127,8 @@ sections:
           items:
             - name: Docker
               icon: devicon/docker
+            - name: Nginx
+              icon: devicon/nginx
             - name: GitHub
               icon: devicon/github
             - name: Git
