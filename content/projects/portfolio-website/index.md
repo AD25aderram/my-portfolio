@@ -1,11 +1,10 @@
 ---
 title: "Personal Portfolio Website"
-date: 2025-11-01
+date: 2026-4-01
 summary: "Built and deployed a personal portfolio using Hugo + HugoBlox, with automated CI/CD via GitHub Actions — learning Linux, YAML, and static site generation along the way."
 tags:
   - Hugo
   - GitHub Actions
-  - CI/CD
   - Linux
   - DevOps
   - Web Development
