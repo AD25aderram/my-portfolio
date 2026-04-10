@@ -5,10 +5,9 @@ summary: "Built and deployed a multi-container load balancing setup using Nginx,
 tags:
   - Nginx
   - Docker
-  - Load Balancing
   - Node.js
   - DevOps
-  - Networking
+  - backend
 tech_stack:
   - Nginx
   - Node.js
@@ -23,7 +22,7 @@ links:
 featured: true
 status: "Complete"
 role: "Solo Developer"
-duration: "Ongoing"
+duration: "2 days"
 team_size: 1
 highlights:
   - "Round-robin load balancing across 3 independent Node.js containers"
