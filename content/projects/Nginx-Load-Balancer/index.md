@@ -1,6 +1,6 @@
 ---
 title: "Nginx Load Balancer & Reverse Proxy"
-date: 2026-04-11
+date: 2026-04-10
 summary: "Built and deployed a multi-container load balancing setup using Nginx, Node.js, and Docker Compose — with SSL termination, health checks, and a live monitoring dashboard."
 tags:
   - Nginx
