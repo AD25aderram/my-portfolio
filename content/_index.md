@@ -23,8 +23,7 @@ sections:
         prefix: "I'm learning"
         strings:
           - "full-stack web apps"
-          - "RESTful APIs"
-          - "responsive interfaces"
+          - "CI/CD piplines"
           - "Linux envirement"
           - "DevOps philosophie"
         type_speed: 70
