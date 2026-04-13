@@ -119,7 +119,7 @@ sections:
             - name: Laravel
               icon: devicon/laravel
             - name: Django
-              icon: devicon/python
+              icon: devicon/django
             - name: SQL
               icon: devicon/mysql
         - name: DevOps
@@ -134,6 +134,8 @@ sections:
               icon: devicon/git
             - name: Linux
               icon: devicon/linux
+            - name: Bash
+              icon: devicon/bash
     design:
       style: grid
       show_levels: false
