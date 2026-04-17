@@ -1,10 +1,8 @@
 ---
-title: "CI/CD Pipeline Optimisation with Operations Research"
+title: "Pipeline Optimisation with Operations Research"
 date: 2025-12-01
 summary: "Applied PERT/CPM and graph algorithms to model and optimise a banking application's CI/CD pipeline, identifying a critical path of 64 minutes."
 tags:
-  - DevOps
-  - CI/CD
   - Python
   - Algorithms
   - Operations Research
