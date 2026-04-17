@@ -119,13 +119,11 @@ sections:
             - name: Laravel
               icon: devicon/laravel
             - name: Django
-              icon: devicon/django
+              icon: devicon/pyhton
             - name: SQL
               icon: devicon/mysql
         - name: DevOps
           items:
-            - name: Docker
-              icon: devicon/docker
             - name: Nginx
               icon: devicon/nginx
             - name: GitHub
@@ -134,6 +132,12 @@ sections:
               icon: devicon/git
             - name: Linux
               icon: devicon/linux
+            - name: Docker
+              icon: devicon/docker
+            - name: Kubernetes
+              icon: devicon/kubernetes
+            - name: Jenkins
+              icon: devicon/jenkins
             - name: Bash
               icon: devicon/bash
     design:
