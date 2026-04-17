@@ -118,8 +118,6 @@ sections:
           items:
             - name: Laravel
               icon: devicon/laravel
-            - name: Django
-              icon: devicon/pyhton
             - name: SQL
               icon: devicon/mysql
         - name: DevOps
